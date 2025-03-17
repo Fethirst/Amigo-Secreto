@@ -1,4 +1,3 @@
-// Referências aos elementos HTML
 const inputNome = document.getElementById('amigo');
 const botaoAdicionar = document.querySelector('.button-add');
 const listaAmigos = document.getElementById('listaAmigos');
